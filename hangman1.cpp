@@ -47,6 +47,7 @@ bool checkall(string a[], int n, string q[]){
 }
 
 int main(){
+	cout << "game start";
 	string a[5]={"h", "e", "l", "l", "o"};
 	string q[5] = {"*", "*", "*", "*", "*"};
 	// mangkitu(a, 5);
